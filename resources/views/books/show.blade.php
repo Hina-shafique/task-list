@@ -12,6 +12,7 @@
             </div>
             <div>
                 <a href="/books/{{ $book->id }}/create" class="underline text-gray-500">Add a review</a>
+                <a href="/books" class="underline text-gray-500 ml-4">Go Back</a>
             </div>
         </div>
     </section>
